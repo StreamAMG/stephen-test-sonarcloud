@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.1.5",
+    "typescript": "^5.0.4"
+  },
+  "name": "stephen-test-sonarcloud",
+  "description": "A test playground repository (public so not sensitive) to test sonarcloud against.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreamAMG/stephen-test-sonarcloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StreamAMG/stephen-test-sonarcloud/issues"
+  },
+  "homepage": "https://github.com/StreamAMG/stephen-test-sonarcloud#readme"
+}
