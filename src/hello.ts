@@ -6,7 +6,7 @@ export class Hello {
   /**
    * Hello
    */
-  sayHello(): string {
-    return 'This action say hello';
+  sayHello(): void {
+    console.log('This action say hello');
   }
 }
